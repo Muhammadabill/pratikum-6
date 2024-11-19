@@ -1,6 +1,6 @@
 # Labpy.05/Pratikum05
-# NAMA  = MUHAMMAD SOFYAN ILYAS
-# NIM   = 312401323 
+# NAMA  = MUHAMAD NABIL S.S
+# NIM   = 312310365 
 # KELAS = TI.24.A4
 
 
@@ -552,13 +552,14 @@ Daftar Nilai
 ======================================================================
 | NO | NIM      | NAMA       | TUGAS   | UTS     | UAS     | AKHIR   |
 ======================================================================
-| 1  | 1234     | ZAKI       | 80.00    | 75.00    | 90.00    | 81.75    |
-| 2  | 5678     | TONO       | 80.00    | 75.00    | 80.00    | 78.25    |
-| 3  | 9101     | BUDI       | 90.00    | 75.00    | 90.00    | 84.75    |
+| 1  | 1234     | Muhammad Nabil s.s       | 90.00    | 95.00    | 80.00    | 88.25    |
+| 2  | 5678     | Abil       | 80.00    | 79.00    | 98.00    | 85.95    |
+| 3  | 9101     | Satrio       | 80.00    | 98.00    | 70.00    | 82.80    |
 ======================================================================
 
 ## screenshout output VSC
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/591036ac-d24c-4c30-b86a-183df34dbb36">
+![image](https://github.com/user-attachments/assets/a28b02d3-a577-45be-8334-68d9a8296537)
+
 
 
 
