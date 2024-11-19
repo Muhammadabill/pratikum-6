@@ -1,6 +1,6 @@
-# Labpy.05/Pratikum05
+# Labpy.06/Pratikum06
 # NAMA  = MUHAMAD NABIL S.S
-# NIM   = 312310365 
+# NIM   = 312410365 
 # KELAS = TI.24.A4
 
 
@@ -176,7 +176,7 @@ Berikut adalah contoh tampilan tabel data:
 
 
 Daftar Nilai
-'''
+```
 ======================================================================
 | NO | NIM      | NAMA       | TUGAS   | UTS     | UAS     | AKHIR   |
 ======================================================================
@@ -184,7 +184,7 @@ Daftar Nilai
 | 2  | 5678     | Abil       | 80.00    | 79.00    | 98.00    | 85.95    |
 | 3  | 9101     | Satrio       | 80.00    | 98.00    | 70.00    | 82.80    |
 ======================================================================
-''''
+```
 ## screenshout output VSC
 ![image](https://github.com/user-attachments/assets/a28b02d3-a577-45be-8334-68d9a8296537)
 
